@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I am Rohith 👋
 
-<!--
-**rohith2707N/rohith2707N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Cybersecurity Analyst | BTech Graduate
 
-Here are some ideas to get you started:
+Passionate about network defense, infrastructure triage, and application security. Actively looking for entry-level opportunities (SOC Analyst, Junior Security Engineer) where I can apply practical defensive and offensive security skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack & Tools
+* **Languages & Scripting:** Python
+* **Security & Analysis Tools:** Wireshark, Splunk, Nmap, Burp Suite
+* **Operating Systems:** Linux (Kali Linux), Windows (Sysmon logs)
+* **Platforms & Version Control:** Git, GitHub
+
+---
+
+### 🚀 Featured Hands-On Projects
+* **[SQL Injection Attack & Mitigation Lab](LINK-TO-YOUR-PROJECT-REPO)** 
+  * Analyzed SQLi vulnerabilities using Burp Suite within a Kali Linux VM against OWASP Juice Shop. Documented payloads, database record extraction, and implemented secure coding mitigations via Parameterized Queries.*
+* **[Network Traffic Triage & Packet Capture Analysis](LINK-TO-YOUR-PROJECT-REPO)** 
+  * Conducted deep packet inspection using Wireshark to isolate indicators of compromise (IOCs), malicious port scans, and cleartext credential leakage from raw network logs.*
+
+---
+
+### 📈 Continuous Learning & Certifications
+* **TryHackMe:** [https://tryhackme.com/p/rohithreddy27]
+* **PortSwigger Web Security Academy:** Active Vulnerability Labs Practitioner
+
+📫 **How to reach me:** [rohith27ns@gmail.com]
