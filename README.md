@@ -15,7 +15,7 @@ Passionate about network defense, infrastructure triage, and application securit
 ---
 
 ### 🚀 Featured Hands-On Projects
-* **[SQL Injection Attack & Mitigation Lab](SQL-Injection-Attack-Mitigation-Lab/README.md)** 
+* **[SQL Injection Attack & Mitigation Lab](https://github.com/rohith2707N/SQL-Injection-Attack-Mitigation-Lab)** 
   * Analyzed SQLi vulnerabilities using Burp Suite within a Kali Linux VM against OWASP Juice Shop. Documented payloads, database record extraction, and implemented secure coding mitigations via Parameterized Queries.*
 * **[Network Traffic Triage & Packet Capture Analysis](LINK-TO-YOUR-PROJECT-REPO)** 
   * Conducted deep packet inspection using Wireshark to isolate indicators of compromise (IOCs), malicious port scans, and cleartext credential leakage from raw network logs.*
