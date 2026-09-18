@@ -23,7 +23,7 @@ Passionate about network defense, infrastructure triage, and application securit
 ---
 
 ### 📈 Continuous Learning & Certifications
-* **TryHackMe:** [https://tryhackme.com/p/rohithreddy27]
+* **TryHackMe:** [Profile](https://tryhackme.com/p/rohithreddy27)
 * **PortSwigger Web Security Academy:** Active Vulnerability Labs Practitioner
 
 📫 **How to reach me:** [rohith27ns@gmail.com]
